@@ -1,16 +1,13 @@
-# Security-Analyst-Intro
-Dashboard, Firewall Block, Escalating.
+1. Practice Details
+Objective: Accurately report incidents to the appropriate person in charge upon occurrence. Review the SIEM Dashboard and detect events corresponding to severity levels.
 
-# TryHackMe - A Day In the Life of a Junior Security Analyst
+Result: Reported the suspicious IP to the manager and blocked the IP in the firewall.
 
-## 1. 실습 개요
-* **주제:** SIEM 대시보드 알람 분석 및 의심스러운 IP 추적
-* **목표:** 크리티컬(Critical) 보안 경고를 식별하고 비정상적인 SSH 로그인 시도 분석
+2. Key Analysis
+Detected Threat: Critical severity alert received on November 15, 2026, at 21:20
 
-## 2. 주요 분석 내용
-* **탐지된 위협:** 2026년 11월 15일 21:20에 수신된 Critical 등급 알람
-* **공격자 IP:** `221.181.185.159` (포트 22를 통한 무차별 대입 및 성공적인 SSH 로그인 시도 탐지)
-* **조치 사항:** IP Hunter 탭을 이용해 해당 악성 IP의 통신 기록 확인 완료
+Attacker IP: 221.181.185.159 (Detected brute-force attack and successful SSH login attempt via port 22)
 
-## 3. 실습 화면 캡처
-![SIEM Dashboard](./siem-alert.png)
+Action Taken: Checked communication logs of the malicious IP using the IP Hunter tab
+
+3. Practice Screenshot
