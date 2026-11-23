@@ -1,8 +1,6 @@
-<img width="939" height="680" alt="image" src="https://github.com/user-attachments/assets/62fb723d-c9f4-466b-bf35-ec5298de4568" />
+
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/badge/08609347-ba97-4705-86f6-bc001f5b8c87)
-
-
 
 
 
