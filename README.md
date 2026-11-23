@@ -1,4 +1,4 @@
-
+<img width="939" height="680" alt="image" src="https://github.com/user-attachments/assets/62fb723d-c9f4-466b-bf35-ec5298de4568" />
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/badge/08609347-ba97-4705-86f6-bc001f5b8c87)
 
@@ -8,7 +8,7 @@
 
 🛡️ About This Repository & Background
 
-🏦 Enterprise Monitoring Experience: During my time in IT monitoring at a major South Korean enterprise supporting banking systems, I independently monitored more than eight critical programs.
+🏦 Enterprise Monitoring Experience: During my time in IT monitoring at a major South Korean enterprise supporting banking systems. I gained hands-on experience monitoring more than eight programs and tools, and resolving operational issues by executing Linux commands. I also managed the server room and performed inspections of physical servers.
 
 🔄 Transferable Core Principles: While the specific tool names may vary across countries and organizations, the fundamental monitoring principles remain identical.
 
